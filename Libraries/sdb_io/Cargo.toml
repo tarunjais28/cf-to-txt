@@ -1,0 +1,6 @@
+[package]
+name = "sdb_io"
+version = "0.1.0"
+authors = ["Tarun Jaiswal <tarunjais28@gmail.com>"]
+
+[dependencies]
